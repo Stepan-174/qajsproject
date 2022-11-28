@@ -39,6 +39,8 @@
   "asteriskTxt": "//small[contains(text(),'indicates')]",
   "chooseLanP": "//label[@id='for-slanguage']",
   "usernameTxt": "//label[@id='for-tuserName']",
-  "tipImg": "//a[@id='username-tip']/img"
+  "tipImg": "//a[@id='username-tip']/img",
+  "field": "//div[@class='row grid-row-margin-34']",
+  "minus": "//span[@id='error-tuserName']/span/span"
 }
 
