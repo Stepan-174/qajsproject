@@ -1,0 +1,22 @@
+{
+  "TitleName": {
+    "titleName": "USPS.com® - Register for an online account"
+  },
+  "Login": {
+    "userName": "Step",
+    "password": "Test1234",
+    "passwordRetype": "Test1234"
+  },
+  "Language": {
+    "English": "English"
+  },
+  "SecQDDM": {
+    "city": "In what city were you born?",
+    "answer": "Test",
+    "rAnswer": "Test"
+  },
+  "Country": {
+    "pakistan": "PAKISTAN"
+  }
+}
+
