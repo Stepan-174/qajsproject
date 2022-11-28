@@ -1,10 +1,21 @@
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es5",
-    "sourceMap": true
+  "Header1text": {
+    "header1Text": "Create Your USPS.com Account"
   },
-  "exclude": [
-    "node_modules"
-  ]
+  "Step1Text": {
+    "step1Text": "Step 1: Choose your language and username"
+  },
+  "SecDDM": {
+    "city": "//option[@id='o1']"
+  },
+  "ChooseLangT": {
+    "chooseLangT": "Please choose a default language"
+  },
+  "EnterUNT": {
+    "EnterUNT": "Please enter a username which will uniquely identify you with the United States Postal Service."
+  },
+  "asteriskTxt": "* indicates a required field",
+  "chooseLanPText": "* Choose a language preference",
+  "usernameTxt":"* Username"
 }
+

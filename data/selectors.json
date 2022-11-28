@@ -1,7 +1,44 @@
 {
   "Logo": {
     "logo": "//img[@id='usps-logo']"
-  }
-
+  },
+  "Header1": {
+    "header1": "//h1[contains(text(),'Create Your USPS.com Account')]"
+  },
+  "Step1T": {
+    "step1T": "//h3[@class='subhead subhead-lg']"
+  },
+  "Login": {
+    "userNameIF": "//input[@id='tuserName']",
+    "passwordIF": "//input[@id='tPassword']",
+    "passwordRetypeIF": "//input[@id='tPasswordRetype']"
+  },
+  "LanguageDDM": {
+    "language": "//select[@id='slanguage']",
+    "optEng": "//option[@value='en']"
+  },
+  "SecQDDM": {
+    "SecQ": "#ssec1",
+    "city": "//option[@id='o1']",
+    "answerIF": "#tsecAnswer1",
+    "rAnswerIF": "#tsecAnswer1Match"
+  },
+  "accauntType": {
+    "PA": "#rAccount1"
+  },
+  "CountryDDM": {
+    "country": "//select[@id='scountry']",
+    "pakistan": "//option[@value='586 PAKISTAN']"
+  },
+  "ChooseLangT": {
+    "chooseLangT": "//p[contains(text(),'Please choose a')]"
+  },
+  "EnterUNT": {
+    "enterUNT": "//p[contains(text(),'Please enter a username')]"
+  },
+  "asteriskTxt": "//small[contains(text(),'indicates')]",
+  "chooseLanP": "//label[@id='for-slanguage']",
+  "usernameTxt": "//label[@id='for-tuserName']",
+  "tipImg": "//a[@id='username-tip']/img"
 }
 
